@@ -8,7 +8,7 @@
 .juego{
     border: 1px solid black;
     padding: 5px;
-    background-color: aliceblue;
+    
 
 }
 .textoinicial {
@@ -16,14 +16,9 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border: 3px dashed blueviolet;
+    border: 2px dashed blueviolet;
     border-radius: 5px;
-    padding: 5px;
-    
 
-}
-h5 {
-    margin: auto;
 }
 #idimageninicial {
     border: 4px solid yellow;
@@ -53,6 +48,9 @@ button {
     background: red;
     border: 1px solid black;
     font-family: 'Times New Roman', Times, serif;
+}
+h5 {
+    margin: auto;
 }
 .reiniciar {
     display: flex;
